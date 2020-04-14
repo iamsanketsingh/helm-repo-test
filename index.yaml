@@ -3,20 +3,29 @@ entries:
   my-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-14T19:44:40.38178+05:30"
+    created: "2020-04-14T20:06:20.74793+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 2f31ba8a4464060dd4441ba0ea399daae55814ce8af80c6e25b56c055b51ba48
+    name: my-app
+    urls:
+    - my-app-2.0.tgz
+    version: "2.0"
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-14T20:06:20.747408+05:30"
     description: A Helm chart for Kubernetes
     digest: 5f901e4812e1c679563f3fbcaa8566b64556a74b00ae94726df92add9df9fbf8
     name: my-app
     urls:
-    - http://iamsanketsingh.github.io/helm-repo-test/my-app-1.2.tgz
+    - my-app-1.2.tgz
     version: "1.2"
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-14T19:44:40.380794+05:30"
+    created: "2020-04-14T20:06:20.746754+05:30"
     description: A Helm chart for Kubernetes
     digest: 7c35b5dfdccdff66a35a633805bf722f10b21bb45555cc75e3cd8f048b83ae29
     name: my-app
     urls:
-    - http://iamsanketsingh.github.io/helm-repo-test/my-app-0.1.0.tgz
+    - my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-14T19:44:40.377581+05:30"
+generated: "2020-04-14T20:06:20.745662+05:30"
